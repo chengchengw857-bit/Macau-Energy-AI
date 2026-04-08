@@ -1,0 +1,112 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "“澳”游电能"
+			}
+		},
+		{
+			"path": "pages/map/map",
+			"style": {
+				"navigationBarTitleText": "找电"
+			}
+		},
+		{
+			"path": "pages/news/news",
+			"style": {
+				"navigationBarTitleText": "发现",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/detail/detail",
+			"style": {
+				"navigationBarTitleText": "站点详情"
+			}
+		},
+		{
+			"path": "pages/charging/charging",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "正在充电"
+			}
+		},
+		{
+			"path": "pages/reserve/reserve",
+			"style": {
+				"navigationBarTitleText": "AI一站式预约"
+			}
+		},
+		{
+			"path": "pages/takeaway/takeaway",
+			"style": {
+				"navigationBarTitleText": "换电外卖小哥"
+			}
+		},
+		{
+			"path": "pages/route/route",
+			"style": {
+				"navigationBarTitleText": "AI智慧路径规划"
+			}
+		},
+		{
+			"path": "pages/ar/ar",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "AR寻桩导航"
+			}
+		},
+		{
+			"path": "pages/success/success",
+			"style": {
+				"navigationBarTitleText": "操作成功"
+			}
+		},
+		{
+			"path": "pages/rescue/rescue",
+			"style": {
+				"navigationBarTitleText": "应急救援补给",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F7F8FA"
+	},
+	"tabBar": {
+		"color": "#909399",
+		"selectedColor": "#0052D9",
+		"backgroundColor": "#FFFFFF",
+		"borderStyle": "white",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/map/map",
+				"text": "找电"
+			},
+			{
+				"pagePath": "pages/news/news",
+				"text": "发现"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"text": "我的"
+			}
+		]
+	},
+	"easycom": {
+		"^u-(.*)": "@/uni_modules/uview-ui/components/u-$1/u-$1.vue"
+	}
+}
