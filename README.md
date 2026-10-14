@@ -1,7 +1,7 @@
 # 智充未来 (Macau Energy AI) ⚡️
 
 **基于 AI 的澳门新能源汽车智慧充换电一体化平台**
-![第二张照片](图片在线链接)
+![第二张照片](https://github.com/chengchengw857-bit/Macau-Energy-AI/blob/main/%E5%9F%BA%E4%BA%8EAI%E7%9A%84%E6%BE%B3%E9%97%A8%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E6%85%A7%E5%85%85%E6%8D%A2%E7%94%B5%E4%B8%80%E4%BD%93%E5%8C%96%E5%B9%B3%E5%8F%B0%20(uni-app%20%2B%20uView2.0)1.2.png)
 ---
 
 ## 🌟 项目亮点 (Highlights)
